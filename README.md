@@ -1,2 +1,9 @@
 # OPENCV-PROJECTS
-Here I did face detection, car detection, car's number plate detection and virtual paint related projects using OpenCV.
+
+1 - face detection 
+
+2 - car detection
+
+3 - car's number plate detection 
+
+4 - virtual paint 
