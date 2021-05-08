@@ -8,4 +8,6 @@
 
 4 - virtual paint 
 
-5 - Body pose detection using Mediapipe
+5 - Body pose detection using mediapipe
+
+6- Face landmark detection using mediapipe
